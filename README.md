@@ -1,5 +1,4 @@
 # hello-world
-1st repository
 Hi friends!
 
 Im sahan, im a newbe here.
